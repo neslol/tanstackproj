@@ -1,0 +1,12 @@
+#video-item {
+  max-width: 800px;
+  margin-top: 10px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 8px;
+  transition: border-color 0.3s;
+}
+
+#video-item:hover {
+  border-color: #007bff;
+}
